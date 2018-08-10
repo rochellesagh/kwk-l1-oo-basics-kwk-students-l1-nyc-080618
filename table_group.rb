@@ -5,7 +5,7 @@ class Table
     
     @tv_show = tv_show
     @food = food
-    @amt_sibs = amount_of_siblings
+    @amt_sibs = amt_sibs
 
   end 
   

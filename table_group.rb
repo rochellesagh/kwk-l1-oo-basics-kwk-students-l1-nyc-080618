@@ -52,9 +52,9 @@ puts rochelle.num_amt_sibs
 puts " "
 puts "  "
 
-gabby = Table.new("Ewwwww", "yeah...kinda", "well... he kinda hates mondays", "nope")
+# gabby = Table.new("Ewwwww", "yeah...kinda", "well... he kinda hates mondays", "nope")
 
-garfield.base_traits
+# gabby.base_traits
 
 
 

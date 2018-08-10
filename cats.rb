@@ -6,6 +6,8 @@ class Cats
     @cuddly = cuddly
   end 
   
+  # following @ trait variables are different for each cat, specify in string 
+  
   
   def is_it_cute
     @cute 
@@ -30,6 +32,7 @@ class Cats
   def base_traits 
     puts "It is an obligate carnivore. It has 30 teeth. It has curved claws"
   end 
+  #base traits are same for both Cats.new , but must put them to show 
 
 end
 

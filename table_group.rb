@@ -54,7 +54,7 @@ puts rochelle.num_amt_sibs
 puts " "
 puts "  "
 
-gabby = Table.new("Gossip Girl", "Ham (green eggs and)", "6",)
+gabby = Table.new("Gossip Girl", "Ham (green eggs and)", "6 (mamma mia)",)
 
 gabby.base_traits
 
@@ -85,5 +85,22 @@ puts haja.favorite_food
 puts " "
 puts "How many siblings does Haja have?"
 puts haja.num_amt_sibs
+puts " "
+puts "  "
+
+
+adielle = Table.new("xoxo Gossip Girl", "French Fries", "3")
+
+adielle.base_traits
+puts " "
+puts " "
+puts "What is Adielle's favorite TV show?"
+puts adielle.favorite_tv_show
+puts " "
+puts "What is Adielle's favorite food?"
+puts adielle.favorite_food
+puts " "
+puts "How many siblings does Adielle have?"
+puts adielle.num_amt_sibs
 puts " "
 puts "  "

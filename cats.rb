@@ -1,5 +1,8 @@
 class Cats
   def initialize(cute,fuzzy,mean,cuddly)
+    
+    # @ sign means every instance use these variables 
+    
     @cute = cute
     @fuzzy = fuzzy
     @mean = mean
@@ -28,6 +31,8 @@ class Cats
     @cuddly
   end
   
+  
+  #define method so can call it later 
   
   def base_traits 
     puts "It is an obligate carnivore. It has 30 teeth. It has curved claws"

@@ -69,3 +69,4 @@ puts "Is Garfield fuzzy?"
 puts garfield.is_it_fuzzy
 puts garfield.is_it_mean
 puts garfield.is_it_cuddly
+

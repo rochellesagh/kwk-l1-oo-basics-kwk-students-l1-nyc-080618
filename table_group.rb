@@ -32,13 +32,15 @@ class Table
   def base_traits 
     puts "I am a girl. I need oxygen. I love food. I am a part of Kode with Klossy."
   end 
-  #base traits are same for both Cats.new , but must put them to show 
+  #base traits are same for both Table.new , but must put them to show 
 
 end
 
 rochelle = Table.new("Game of Thrones (obsessed)", "Sushi", "3")
 
+
 rochelle.base_traits
+
 puts " "
 puts " "
 puts "What is Rochelle's favorite TV show?"

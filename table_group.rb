@@ -3,9 +3,9 @@ class Table
     
     # @ sign means every instance use these variables 
     
-    @tv_show = tv show
+    @tv_show = tv_show
     @food = food
-    @amt_sibs = amount of siblings
+    @amt_sibs = amount_of_siblings
 
   end 
   

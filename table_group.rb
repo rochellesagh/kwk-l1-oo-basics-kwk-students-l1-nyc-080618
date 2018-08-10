@@ -50,7 +50,7 @@ puts "What is Rochelle's favorite food?"
 puts rochelle.favorite_food
 puts " "
 puts "How many siblings does Rochelle have?"
-puts rochelle.amount_of_siblings
+puts rochelle.num_amt_sibs
 puts " "
 puts "  "
 

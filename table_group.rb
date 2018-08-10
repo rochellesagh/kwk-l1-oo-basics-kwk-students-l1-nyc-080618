@@ -54,10 +54,22 @@ puts rochelle.num_amt_sibs
 puts " "
 puts "  "
 
-# gabby = Table.new("Ewwwww", "yeah...kinda", "well... he kinda hates mondays", "nope")
+gabby = Table.new("Gossip Girl", "Ham (green eggs and)", "6",)
 
-# gabby.base_traits
+gabby.base_traits
 
+puts " "
+puts " "
+puts "What is Gabby's favorite TV show?"
+puts gabby.favorite_tv_show
+puts " "
+puts "What is Gabby's favorite food?"
+puts gabby.favorite_food
+puts " "
+puts "How many siblings does Gabby have?"
+puts gabby.num_amt_sibs
+puts " "
+puts "  "
 
 
 

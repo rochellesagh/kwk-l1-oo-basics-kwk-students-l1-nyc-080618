@@ -72,4 +72,18 @@ puts " "
 puts "  "
 
 
+haja = Table.new("Riverdale", "Pizza", "4")
 
+haja.base_traits
+puts " "
+puts " "
+puts "What is Haja's favorite TV show?"
+puts haja.favorite_tv_show
+puts " "
+puts "What is Haja's favorite food?"
+puts haja.favorite_food
+puts " "
+puts "How many siblings does Haja have?"
+puts haja.num_amt_sibs
+puts " "
+puts "  "
